@@ -1,0 +1,13 @@
+﻿  Project.cpp
+C:\Users\USER\source\repos\Project\Project\Project.cpp(61,20): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\USER\source\repos\Project\Project\Project.cpp(61,17): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\USER\source\repos\Project\Project\Project.cpp(61,14): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\USER\source\repos\Project\Project\Project.cpp(81,25): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\USER\source\repos\Project\Project\Project.cpp(82,26): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\USER\source\repos\Project\Project\Project.cpp(95,55): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\USER\source\repos\Project\Project\Project.cpp(121,55): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\USER\source\repos\Project\Project\Project.cpp(213,64): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\USER\source\repos\Project\Project\Project.cpp(216,62): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  Project.vcxproj -> C:\Users\USER\source\repos\Project\x64\Debug\Project.exe
+  "pwsh.exe" no se reconoce como un comando interno o externo,
+  programa o archivo por lotes ejecutable.
